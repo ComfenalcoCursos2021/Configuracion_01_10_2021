@@ -1,4 +1,7 @@
 Nombre: Miguel Angel Castro Escamilla
+
 Edad: 23
+
 Tengo experiencia:Tecnólogo en ADSI con enfoque en creación de páginas web y analista en base de datos MYSQL. Conocimientos en adobe illustrator cc 2020, after effects cc 2020, 5 años de experiencia en la programación web, con conocimientos en Angular-Cli, Javascript, PHP y Flutter. Manejo de librerías de terceros como bootstrap, jquery.
-Como me entere del curso: Facebook, pagina ofiacial, por una compañero(a)
+
+Como me entere del curso: Soy el instructor del diplomado
